@@ -1,11 +1,10 @@
 # Hangman-Game
-# Psychic-Game
 
-This is a game where you have to guess a letter from a - z that has been chosen by the computer at random.
+This is a game where you have to guess a the mystery word by guessing the different letters.
 
 ## Getting Started
 
-You can play this game NOW: [Psychic Game](https://rsaez.github.io/Psychic-Game/). You can also clone or download a copy of this game by clicking the link on the top-right.
+You can play this game NOW: [Hangman Game](https://rsaez.github.io/Hangman-Game/). You can also clone or download a copy of this game by clicking the link on the top-right.
 
 ### Prerequisites
 
